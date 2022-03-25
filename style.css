@@ -45,6 +45,13 @@ a:hover{text-decoration: none; cursor:pointer;}
 	position:relative;
 }
 
+
+/* Sizes */
+
+.bloc-lg{
+	padding:100px 20px;
+}
+
 /* = Full Screen Blocs 
 -------------------------------------------------------------- */
 
